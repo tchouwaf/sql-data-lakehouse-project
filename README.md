@@ -4,3 +4,6 @@ It has drive me to develop that solid Data Warehouse to process informations ava
 
 ---
 
+## Database creation
+
+I created my Database directly from pgAdmin4 interface, as well as my schemas.
