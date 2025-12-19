@@ -1,2 +1,3 @@
-# sql-data-lakehouse-project
-Building a Data Lakehouse from PostgreSQL for a prediction model, that collect data from diverse API and online sources, that include ETL, data modeling and analytics
+# sql-data-warehouse-project
+Building a Data Warehouse from PostgreSQL for to store data from the NBA, as a fan of basket-ball we saw the emergences of a lots of statistics in that sport.
+It has drive me to develop that solid Data Warehouse to process informations available in real-time from that business
